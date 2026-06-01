@@ -1,0 +1,43 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-image: url("https://www.universetoday.com/article_images/STScI-01H1CTP0ZH56RH3HDG0HAZHYHM_20251220_235939.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 40px;
+    font-size: 14pt;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+strong {
+    display: block;
+    font-size: 1.8rem;
+    color: #58a6ff;
+    max-width: 650px;
+    margin: 40px auto 10px auto;
+}
+
+p {
+    max-width: 650px;
+    margin: 15px auto;
+    line-height: 1.7;
+    color: rgba(255, 255, 255, 0.95);
+
+}
+
+img {
+    display: block;
+    width: 500px;
+    height: auto;
+    margin: 20px auto 40px auto;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+img:hover{
+    width:650px
+}
