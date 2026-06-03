@@ -3,8 +3,8 @@ Space phenomena webpage
 
 ## 🌟 Highlights
 
-- **Simple functionality** Information is organized in sections with descriptions
-- **User friendly** Clear to understand and no prior knowledge is needed prior to using the webpage
+- **Simple functionality** The information is organized in sections with descriptions and images
+- **User friendly** Clear to understand and no prior knowledge or understanding of space is needed to use the webpage
 - **Flexible** Great for individuals that want to learn as little or as much of space phenomena
 - **Educational** Helps individuals understand and learn more about space phenomena. It is great for students, researchers, or even individuals that are simply interested. 
 
