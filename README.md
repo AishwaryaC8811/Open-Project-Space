@@ -11,7 +11,7 @@ Space phenomena webpage
 
 ## ℹ️ Overview
 
-The purpose of this project is to provide valuable, fundamental space information in an easy to understand format. This webpage provides information about the planets and their history, the kuiper belt, oort cloud, nebulae, matter and much more. It also includes several theories with simple explanations for better understanding. We had used HTML and CSS to develop this webpage. We had written the research in HTML and used CSS to format it as well as change the style of the page. Not just the webpage, but also the code is very helpful to the understanding of creating one's own webpage. Overall, this webpage is space themed and includes great information for any occasion with easy access.
+The purpose of this project is to provide valuable, fundamental and interesting space information in an easy to understand format. The majority of the information provided in this webpage was gathered from the NASA site. This webpage provides information about the planets and their history, the kuiper belt, oort cloud, nebulae, matter and much more. It also includes several theories with simple explanations for better understanding. We had used HTML and CSS to develop this webpage. We had written the research in HTML and used CSS to format it as well as change the style of the page. Not just the webpage, but also the code is very helpful to the understanding of creating one's own webpage. Overall, this webpage is space themed and includes great information for any occasion with easy access.
 
 
 ## 🚀 Usage
